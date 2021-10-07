@@ -17,7 +17,7 @@ Connect your app with the development environment. Then, locate the API keys and
 
 Download the zip file, set up a python virtual environment and install tweepy with "pip install tweepy". This is the only external module we will need for this bot.
 
-Enter your API key and secret and access key and secret into the fields in config.py. (The consumer key/secret field is for the "API key/secret", and the token key/secret field is for the "access token key/secret" that is found in the dev portal.)
+Enter your API key and secret and access key and secret into the fields between the quotations in config.py. (The consumer key/secret field is for the "API key/secret", and the token key/secret field is for the "access token key/secret" that is found in the dev portal.)
 
 I added a file verify.py that you can run with the command "python3 verify.py" in your terminal to check if the keys/secrets are setup properly.
 
