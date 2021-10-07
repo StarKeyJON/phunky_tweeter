@@ -15,7 +15,8 @@ auth.set_access_token(token, token_secret)
 # calling the api 
 api = tweepy.API(auth,parser=tweepy.parsers.JSONParser())
   
-# the ID of the user
+# the ID/Screen_name of the user
+screen_name = "cryptopunksbot"
 userID = "879737099074887682"
 
 
