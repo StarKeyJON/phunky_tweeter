@@ -1,5 +1,4 @@
 #!/usr/bin/env python
-# Phlip bot App ID# 22088626
 # The ID of the PunkBot is : 879737099074887682
 
 from config import *
