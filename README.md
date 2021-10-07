@@ -3,7 +3,7 @@
 
 Apply for a developer account at https://developer.twitter.com It will enable you to make an app inside Twitter. Don’t worry, it is completely free to do so but may take a bit to verify. 
 
-To apply for a Twitter developer account, you need to go to ‘developer.twitter.com’. Twitter will ask for a reason to apply for an account. Be clear with your intentions to avoid any issues in the future. Select the user profile that will be associated with the bot. It can be your personal profile but try to make a separate Twitter account for this purpose. Then you need to specify whether your bot is associated with an organization or is meant for your personal use. 
+Twitter will ask for a reason to apply for an account. Be clear with your intentions to avoid any issues in the future. Select the user profile that will be associated with the bot. It can be your personal profile but try to make a separate Twitter account for this purpose. Then you need to specify whether your bot is associated with an organization or is meant for your personal use. 
 
 After agreeing to the terms and conditions of making a developer account and verifying it, you will be able to create your apps.
 
